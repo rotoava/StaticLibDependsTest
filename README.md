@@ -1,0 +1,2 @@
+# StaticLibDependsTest
+StaticLibDependsTest
